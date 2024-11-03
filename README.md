@@ -21,7 +21,5 @@ A simple project management application using Laravel 11 and React.
 7. Execute migrations and seed data - `php artisan migrate --seed`
 8. Start vite server - `npm run dev`
 9. Start Artisan server - `php artisan serve`
-
-## Demo
-Coming soon...
+10. Start Tinker Command - `php artisan tinker`
 
